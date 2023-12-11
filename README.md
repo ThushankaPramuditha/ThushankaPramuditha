@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Website for Quarantine Center Management.<br>I'm learning PHP, React, Nodejs, and WordPress.<br>I like hot coffee.<br>I like to watch Movies and TV series in my most stressed times.<br><br>
+I'm currently working on a Website for Quarantine Center Management.<br>I'm learning PHP, React, Nodejs, and WordPress.<br>I like hot coffee.<br><br><br>
 
 
 ## 🌐 Socials:
